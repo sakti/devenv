@@ -15,6 +15,7 @@ RUN apt install -y \
     net-tools \
     iproute2 \
     procps \
+    build-essential \
     apt-file \
     strace
 
